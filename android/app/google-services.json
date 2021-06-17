@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990994726234",
+    "project_id": "ritech-group",
+    "storage_bucket": "ritech-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990994726234:android:3ad97bf71329dcd83f4763",
+        "android_client_info": {
+          "package_name": "com.example.ritech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990994726234-4c1db9fnni2s0937umf6vjr5ol9or0ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_2vNczWMJyyeukgpIuSh9jM6JK-8JmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990994726234-4c1db9fnni2s0937umf6vjr5ol9or0ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
